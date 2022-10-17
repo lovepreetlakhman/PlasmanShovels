@@ -15,3 +15,4 @@ Created the new repository for assignment 1
 -Search bar is added on the top of default data
 -Added rating field in all files
 -created about us.-Added about us route.
+- added  link of about us in layout file.
